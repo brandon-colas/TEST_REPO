@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: e0af3ce4-3d23-4941-8ca0-9de57ecbfce9
+      url: https://brandoncolas.quarto.pub/test-site
