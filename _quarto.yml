@@ -2,11 +2,13 @@ project:
   type: website
 
 website:
-  title: "data science"
+  title: "Practice Work"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: visuals.qmd
+        text: Visualizations  
       - about.qmd
 
 format:
